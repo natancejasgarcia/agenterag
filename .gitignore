@@ -1,0 +1,5 @@
+.env
+tienda.db
+indice.json
+__pycache__/
+*.sql

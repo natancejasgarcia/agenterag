@@ -1,0 +1,7 @@
+langgraph>=1.0
+langchain-openai>=1.0
+langchain-core>=1.0
+openai>=1.0
+numpy
+python-dotenv
+streamlit>=1.50
